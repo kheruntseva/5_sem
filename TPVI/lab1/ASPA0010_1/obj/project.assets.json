@@ -1,0 +1,122 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "BSTU.Results.Collection/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/ResultsCollection.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/ResultsCollection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BSTU.Results.Collection/1.0.0": {
+      "sha512": "Bm3W5/B6ufyIUjkd7mlscDburCg2GFDfp89H+FsCpV7Ro1/QJ/dpokPbBPEWU6LGhTC+uLfGC6lrryOgSuwBOg==",
+      "type": "package",
+      "path": "bstu.results.collection/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        "bstu.results.collection.1.0.0.nupkg.sha512",
+        "bstu.results.collection.nuspec",
+        "lib/net8.0/ResultsCollection.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "BSTU.Results.Collection >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mylif\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\проекты 5 сем\\ТПВИ\\lab1_new\\ASPA\\ASPA0010_1\\ASPA0010_1.csproj",
+      "projectName": "ASPA0010_1",
+      "projectPath": "D:\\проекты 5 сем\\ТПВИ\\lab1_new\\ASPA\\ASPA0010_1\\ASPA0010_1.csproj",
+      "packagesPath": "C:\\Users\\mylif\\.nuget\\packages\\",
+      "outputPath": "D:\\проекты 5 сем\\ТПВИ\\lab1_new\\ASPA\\ASPA0010_1\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\mylif\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\local": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "BSTU.Results.Collection": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Произошла ошибка при получении данных уязвимости пакета: Ссылка на объект не указывает на экземпляр объекта."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qo9+0ugrDZg=",
+  "success": true,
+  "projectFilePath": "D:\\проекты 5 сем\\ТПВИ\\lab1_new\\ASPA\\ASPA0010_1\\ASPA0010_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mylif\\.nuget\\packages\\bstu.results.collection\\1.0.0\\bstu.results.collection.1.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Произошла ошибка при получении данных уязвимости пакета: Ссылка на объект не указывает на экземпляр объекта."
+    }
+  ]
+}
