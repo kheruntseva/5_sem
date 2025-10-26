@@ -1,0 +1,11 @@
+D:\проекты 5 сем\ТПВИ\lab1_new\ASPA\ResultsCollection\bin\Debug\net8.0\ResultsCollection.deps.json
+D:\проекты 5 сем\ТПВИ\lab1_new\ASPA\ResultsCollection\bin\Debug\net8.0\ResultsCollection.dll
+D:\проекты 5 сем\ТПВИ\lab1_new\ASPA\ResultsCollection\bin\Debug\net8.0\ResultsCollection.pdb
+D:\проекты 5 сем\ТПВИ\lab1_new\ASPA\ResultsCollection\obj\Debug\net8.0\ResultsCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\проекты 5 сем\ТПВИ\lab1_new\ASPA\ResultsCollection\obj\Debug\net8.0\ResultsCollection.AssemblyInfoInputs.cache
+D:\проекты 5 сем\ТПВИ\lab1_new\ASPA\ResultsCollection\obj\Debug\net8.0\ResultsCollection.AssemblyInfo.cs
+D:\проекты 5 сем\ТПВИ\lab1_new\ASPA\ResultsCollection\obj\Debug\net8.0\ResultsCollection.csproj.CoreCompileInputs.cache
+D:\проекты 5 сем\ТПВИ\lab1_new\ASPA\ResultsCollection\obj\Debug\net8.0\ResultsCollection.dll
+D:\проекты 5 сем\ТПВИ\lab1_new\ASPA\ResultsCollection\obj\Debug\net8.0\refint\ResultsCollection.dll
+D:\проекты 5 сем\ТПВИ\lab1_new\ASPA\ResultsCollection\obj\Debug\net8.0\ResultsCollection.pdb
+D:\проекты 5 сем\ТПВИ\lab1_new\ASPA\ResultsCollection\obj\Debug\net8.0\ref\ResultsCollection.dll
