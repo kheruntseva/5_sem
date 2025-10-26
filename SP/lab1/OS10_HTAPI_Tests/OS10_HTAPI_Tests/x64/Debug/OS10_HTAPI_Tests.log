@@ -1,0 +1,8 @@
+﻿  OS10_HTAPI_Tests.cpp
+D:\проекты 5 сем\системное программирование\lab1\OS10_HTAPI_Tests\OS10_HTAPI_Tests.cpp(76,59): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\проекты 5 сем\системное программирование\lab1\OS10_HTAPI_Tests\OS10_HTAPI_Tests.cpp(76,37): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\проекты 5 сем\системное программирование\lab1\OS10_HTAPI_Tests\OS10_HTAPI_Tests.cpp(101,59): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\проекты 5 сем\системное программирование\lab1\OS10_HTAPI_Tests\OS10_HTAPI_Tests.cpp(101,37): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\проекты 5 сем\системное программирование\lab1\OS10_HTAPI_Tests\OS10_HTAPI_Tests.cpp(104,64): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\проекты 5 сем\системное программирование\lab1\OS10_HTAPI_Tests\OS10_HTAPI_Tests.cpp(104,38): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  OS10_HTAPI_Tests.vcxproj -> D:\проекты 5 сем\системное программирование\lab1\OS10_HTAPI_Tests\x64\Debug\OS10_HTAPI_Tests.exe
