@@ -1,0 +1,62 @@
+create table XXX_t(x number(3) primary key, s varchar2(50));
+
+-- 1. Вставка 3 строк
+INSERT INTO XXX_t(x, s) VALUES (1, 'Первая строка');
+INSERT INTO XXX_t(x, s) VALUES (2, 'Вторая строка');
+INSERT INTO XXX_t(x, s) VALUES (3, 'Третья строка');
+COMMIT;
+
+-- 2. Обновление 2 строк
+UPDATE XXX_t SET s = 'Обновленная первая строка' WHERE x = 1;
+UPDATE XXX_t SET s = 'Обновленная вторая строка' WHERE x = 2;
+COMMIT;
+
+-- Выборка по условию
+SELECT * FROM XXX_t WHERE x > 1;
+
+-- Применение агрегатных функций
+SELECT 
+    COUNT(*) as total_rows,
+    MAX(x) as max_value,
+    MIN(x) as min_value,
+    AVG(x) as average_value
+FROM XXX_t;
+
+-- 4. Удаление 1 строки
+DELETE FROM XXX_t WHERE x = 3;
+COMMIT;
+
+-- 5. Создание связанной таблицы с внешним ключом
+CREATE TABLE XXX_t1(
+    id NUMBER(3),
+    t_id NUMBER(3) REFERENCES XXX_t(x),
+    description VARCHAR2(50)
+);
+
+-- Добавление данных в связанную таблицу
+INSERT INTO XXX_t1(id, t_id, description) VALUES (1, 1, 'Описание для строки 1');
+INSERT INTO XXX_t1(id, t_id, description) VALUES (2, 2, 'Описание для строки 2');
+COMMIT;
+
+-- Внутреннее соединение
+SELECT t.x, t.s, t1.description 
+FROM XXX_t t 
+INNER JOIN XXX_t1 t1 ON t.x = t1.t_id;
+
+-- Левое соединени
+SELECT t.x, t.s, t1.description 
+FROM XXX_t t 
+LEFT JOIN XXX_t1 t1 ON t.x = t1.t_id;
+
+-- Правое соединение
+SELECT t.x, t.s, t1.description 
+FROM XXX_t t 
+RIGHT JOIN XXX_t1 t1 ON t.x = t1.t_id;
+
+
+
+SELECT * FROM XXX_t;
+SELECT * FROM XXX_t1;
+
+DROP TABLE XXX_t1;
+DROP TABLE XXX_t;
