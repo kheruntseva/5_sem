@@ -1,0 +1,346 @@
+OS11_03: Connecting to HT storage D:\проекты 5 сем\системное программирование\lab2_02\OS11_03\x64\Debug\test.ht
+OS11_03: Connected to HT storage: filename=D:\проекты 5 сем\системное программирование\lab2_02\OS11_03\x64\Debug\test.ht, snapshotinterval=10, capacity=100, maxkeylength=32, maxdatalength=64
+OS11_03: Generated key 1: Bj6IIBz15MqZNFf4WXrsFT8RKD6aEoO3
+OS11_03: Generated key 2: 6qPUn5Y9IHXNdZ2qVWfIuBz0SYTexl0i
+OS11_03: Generated key 3: BiMwpZ7ImU5lIh1lTqASpYaGjUUwH5wX
+OS11_03: Generated key 4: 2Ax0wxCyem8i3xSjXIGMPqRJefUmRzDQ
+OS11_03: Generated key 5: bcvejOJvRGl8WGsrwNFHaMI4tZwRKGNP
+OS11_03: Generated key 6: xfZOxqk4udM7C5NQHR5FoRVbdMmYDMxm
+OS11_03: Generated key 7: R2LfkotJEusTRzYkVOPBUWnal2lYhbzW
+OS11_03: Generated key 8: J3UPqHiECfhnsWhFliHdecwD2SjvZadI
+OS11_03: Generated key 9: U0UGyiEs0WyTHU6KUzp1kj1Pfz0s2quR
+OS11_03: Generated key 10: uQFiYxXszeTZnc2zOHvWeT9zF8wFh8Y6
+OS11_03: Generated key 11: j8rUrOlursqElrJG2mZEV1idhLna2oqk
+OS11_03: Generated key 12: tfWGIp0Ysa35Xe2dOudHVI2LQmtqEiMW
+OS11_03: Generated key 13: kaG2A2QqLFaWv7pREHrolW3Jk46Fuozp
+OS11_03: Generated key 14: x79LorloJRYzW6vqhlkuHDbIwaWvrCXQ
+OS11_03: Generated key 15: YwFqpMH3wXBh6F0gMqnXAIVrtGAkoWOT
+OS11_03: Generated key 16: O2Zvw7bExOy6qGSOVGy9BtRGslsRgK2i
+OS11_03: Generated key 17: uuHIz4JtsuhYj3C5gyaglcgNyArbukNl
+OS11_03: Generated key 18: GUlap8rWgg35c4THEbpgtF2cAwMc02ip
+OS11_03: Generated key 19: S3NLqg1vF94w2Z3kboTYAxIpFXzCLCqv
+OS11_03: Generated key 20: ikTfypjdCMoEO4xJcf6zTvYv9toYfIJD
+OS11_03: Generated key 21: UphGFplbSz2HtYVIjuVx2BE9FL8cswmr
+OS11_03: Generated key 22: Z93td6J9YAiHykYJYACGcsb57OBqn997
+OS11_03: Generated key 23: 45Gl9jLnF8X2zHyJgEmDC1bFFdYf38wW
+OS11_03: Generated key 24: rZwQqdnJvIFTv9dka4bStineIQnvwZzL
+OS11_03: Generated key 25: DNjm1wC8j0tkW8z6QVyH2aGkZgfoidw3
+OS11_03: Generated key 26: uca7sTc87VfDsDXQKqhdyvAXWF0p0bLL
+OS11_03: Generated key 27: AxFCITXNP4R351hOB5CUMEhMfAmWcNjy
+OS11_03: Generated key 28: jTIKQARiuJt3r99Tp39wwmxvXCZ7tmix
+OS11_03: Generated key 29: HxBdlXyo1XdvDji3ndUa3RkpOFWtsEvZ
+OS11_03: Generated key 30: Jrx1kZiV1V4zML2k47MjbQeSNgBjgqpd
+OS11_03: Generated key 31: ZhC2O2vhVzSe1JVldA3IiqtQIbll4P2D
+OS11_03: Generated key 32: qWlpq1IXn0qOwl5gVzTqFdqQ9VRv118J
+OS11_03: Generated key 33: bv2cMd71j2otWfiTXKRUddzYoDfCiB2z
+OS11_03: Generated key 34: IK0bXoyBWeNdYZY3UxrViX6UvbumB6fK
+OS11_03: Generated key 35: Nco3CgWrKhBhjzJGEvZuMmLpnG1F70px
+OS11_03: Generated key 36: j0Iiowriq7CmaveMgtd4Cl0l5Tzn6iNG
+OS11_03: Generated key 37: zAsdYhN5Zp5qicPWDqKRIfTAxiNzMkPB
+OS11_03: Generated key 38: xxp018SLdXAJqx0NS28XZS8Dm6Nfov3I
+OS11_03: Generated key 39: 1aj5gAJjAO8pQPVDWMheVuBzYGu9LAby
+OS11_03: Generated key 40: 2tJNS70orJDpNoOIYbYn0iLy3EIp7nxI
+OS11_03: Generated key 41: UEdg6HybkFSw6qB0VBVtFXgi2MdtM5Br
+OS11_03: Generated key 42: cECVcHNr4Kvl4akpZ3ISt5R78B5CBR1o
+OS11_03: Generated key 43: f4e6VYkvKk6NwJHvDJhOUhZTPOmVSP10
+OS11_03: Generated key 44: 8dJT2iojIZB9je2W54yNu2GzQkqjYzya
+OS11_03: Generated key 45: gC9fQWSlCXo0MHQUTaJGOQEcbKzyf76R
+OS11_03: Generated key 46: LvZqEBLckeGfjEbHKUuFU8eqESteBroa
+OS11_03: Generated key 47: 0ixyLrJyur59N3lFfLmKRLopIeJIUtJf
+OS11_03: Generated key 48: 982w2z5BxvCgCiGf9vLMMBJWJzhiA7Ak
+OS11_03: Generated key 49: GQ97l1Ja9rJwKfiuxxxqKV3nLMY0AHyd
+OS11_03: Generated key 50: esQV1mgEh3bCyKiYJwmIWtdEEvzfjvTN
+OS11_03: Press any key to stop deleting and exit...
+OS11_03: Iteration 1, attempting to delete key: bv2cMd71j2otWfiTXKRUddzYoDfCiB2z
+OS11_03: Delete failed for key: bv2cMd71j2otWfiTXKRUddzYoDfCiB2z, error: Key not found
+OS11_03: Iteration 2, attempting to delete key: LvZqEBLckeGfjEbHKUuFU8eqESteBroa
+OS11_03: Delete failed for key: LvZqEBLckeGfjEbHKUuFU8eqESteBroa, error: Key not found
+OS11_03: Iteration 3, attempting to delete key: J3UPqHiECfhnsWhFliHdecwD2SjvZadI
+OS11_03: Delete failed for key: J3UPqHiECfhnsWhFliHdecwD2SjvZadI, error: Key not found
+OS11_03: Iteration 4, attempting to delete key: GQ97l1Ja9rJwKfiuxxxqKV3nLMY0AHyd
+OS11_03: Delete failed for key: GQ97l1Ja9rJwKfiuxxxqKV3nLMY0AHyd, error: Key not found
+OS11_03: Iteration 5, attempting to delete key: uca7sTc87VfDsDXQKqhdyvAXWF0p0bOS11_03: Connecting to HT storage D:\проекты 5 сем\системное программирование\lab2_02\OS11_03\x64\Debug\test.ht
+OS11_03: Connected to HT storage: filename=D:\проекты 5 сем\системное программирование\lab2_02\OS11_03\x64\Debug\test.ht, snapshotinterval=10, capacity=100, maxkeylength=32, maxdatalength=64
+OS11_03: Generated key 1: e7LwEe1nYi9wH47YIyhnX8ZCZen6LXlM
+OS11_03: Generated key 2: YvlRGt6MqGKNjyvujwwYE4kOVZaQVtBP
+OS11_03: Generated key 3: 7U4lGAsyuShqhgXHccWkucxn1iIdFoYe
+OS11_03: Generated key 4: zQVzqv0FrcXsAUUZJe43jdEpeV20fXfO
+OS11_03: Generated key 5: 3dWEMbnMrkYpMkt23bVcyVYDUSyW53W0
+OS11_03: Generated key 6: dGCAgI1I3G4e8qBFMVyhhE32N3fKM7oy
+OS11_03: Generated key 7: AP2T2KB5d6WmxFZXoCughRIL1cBuuEFl
+OS11_03: Generated key 8: 7Wf0UY36LGT7ZCA7JNO5my2GENak4f6u
+OS11_03: Generated key 9: 5eOkieELpnFobTB95OC5xjml4gVi1COL
+OS11_03: Generated key 10: HIkcjnmfhYwooe3F6Pt60jP3BfXSYtaJ
+OS11_03: Generated key 11: zKUo9TUTR5jnBVG4iR2U2OPLrjLwE9N3
+OS11_03: Generated key 12: FsFcbMPj58OwlNvT7JoK36tGcLuaZzAb
+OS11_03: Generated key 13: TRgQqbofIUmsSljqUBeh9Cb8lPG82IKI
+OS11_03: Generated key 14: uhlq1MaIqtOLzz98PXbFwQagetrgtEHZ
+OS11_03: Generated key 15: 8S5AJQWTNhv0qzQG2CsZ2jSjF4Uj7Z80
+OS11_03: Generated key 16: RC9q0JPFhxmEBxtsZIJicHYNggH0sZvv
+OS11_03: Generated key 17: 7OgUpR97IRfDmfnx6fd4BGZS5xt05q4r
+OS11_03: Generated key 18: e5Dy7fv3mD3n9uGcBv6fzz9v2JpVhciV
+OS11_03: Generated key 19: UV0fwXMXl6eJwdLrI5IMZerdvXbRoJYO
+OS11_03: Generated key 20: i66U5F74FkdudUKrsvIYr8DSFIXRt4CC
+OS11_03: Generated key 21: QgHQs7rfhGsV495BhtXG7NOY8kuSGkwB
+OS11_03: Generated key 22: ZO4Pn6n6rUqIAzVv09FDljKFnT0QlHfJ
+OS11_03: Generated key 23: 0zx7gxUum2CzRqdsptax7nwrkTeGVr76
+OS11_03: Generated key 24: x8TpFodSDr1AcuFs5INA3ftRgBVJYTJ8
+OS11_03: Generated key 25: GUtQNJO1IPGjwEJewXSTWhGgQ8RLMZql
+OS11_03: Generated key 26: nG60YamNvdBOloGFF7K1CSya6sS3FJlZ
+OS11_03: Generated key 27: Yx9s9oTQdvRxpJ0ngYMxa4HNvjeiHaRy
+OS11_03: Generated key 28: ISuHteHvvPZU1jYFwARRhnw5Vlf8Zw7b
+OS11_03: Generated key 29: IswIawhjVIAlEO7zZSoXLuFF2WicRXyh
+OS11_03: Generated key 30: uRBREestU2f9WveOEAMJAD5nxRcxIQmn
+OS11_03: Generated key 31: XtJ2VmiVKr5DEKUjlgWZRBYdmHRbGxsL
+OS11_03: Generated key 32: V1h2HvAP9qJwEZsGQjPxNONYtSC4Wv5q
+OS11_03: Generated key 33: yBeGhRW0fPO0uHvMJXV8QILz88pFSQI2
+OS11_03: Generated key 34: W31DCaJvuivfQ0m64JFtZQoE3w8jYC6Z
+OS11_03: Generated key 35: 36bBOfBBikumy2JUM33HoQV3hYLRn4en
+OS11_03: Generated key 36: MOGH62TdqdWmy4r98zDUnnSRiGb4RYpt
+OS11_03: Generated key 37: j1wwS0iv0AyOtnGsmSnaoh2krdoGlGaL
+OS11_03: Generated key 38: Psh68LePDXzC1Vo9xiPwxQvSurRTTDkt
+OS11_03: Generated key 39: nCWp2Tnge4eJBEeOD1Anw3yd4z6QeQX0
+OS11_03: Generated key 40: lnBUV9c3DAg0eCbG2AaIdUMaHb6CaVSr
+OS11_03: Generated key 41: 5VQYbPTaArsL4XteuOGmEv2Qj5ULd2eA
+OS11_03: Generated key 42: LgftpOti9qzhrSzB9pdDYtXtI0xMtrmY
+OS11_03: Generated key 43: veVIlAFioDXgLaJExnnlXCV37s48KsVO
+OS11_03: Generated key 44: MYuqQD0eGwnUEdvXDwQd3e3MAjydTuju
+OS11_03: Generated key 45: r15koCLoikbmNX8gdwHUkIhvCI6Uuwb8
+OS11_03: Generated key 46: ObS4bHZLqbdc6pd4uQb4w4iOAGOtc8ZB
+OS11_03: Generated key 47: w6wMVav39tQWxF12BjoOVj2ZKANfnsUo
+OS11_03: Generated key 48: 7LI1CmSCTXr6hrF2w54FB9I3M2bTYcWe
+OS11_03: Generated key 49: xu9ONcsy2dUD6sZbD8UBFejFG2aBBbi4
+OS11_03: Generated key 50: CTyCEcQaOF8qsz5cGKaATT5fWWl00gtw
+OS11_03: Press any key to stop deleting and exit...
+OS11_03: Iteration 1, attempting to delete key: Yx9s9oTQdvRxpJ0ngYMxa4HNvjeiHaRy
+OS11_03: Delete failed for key: Yx9s9oTQdvRxpJ0ngYMxa4HNvjeiHaRy, error: Key not found
+OS11_03: Iteration 2, attempting to delete key: ISuHteHvvPZU1jYFwARRhnw5Vlf8Zw7b
+OS11_03: Delete failed for key: ISuHteHvvPZU1jYFwARRhnw5Vlf8Zw7b, error: Key not found
+OS11_03: Iteration 3, attempting to delete key: UV0fwXMXl6eJwdLrI5IMZerdvXbRoJYO
+OS11_03: Delete failed for key: UV0fwXMXl6eJwdLrI5IMZerdvXbRoJYO, error: Key not found
+OS11_03: Iteration 4, attempting to delete key: W31DCaJvuivfQ0m64JFtZQoE3w8jYC6Z
+OS11_03: Delete failed for key: W31DCaJvuivfQ0m64JFtZQoE3w8jYC6Z, error: Key not found
+OS11_03: Iteration 5, attempting to delete key: AP2T2KB5d6WmxFZXoCughRIL1cBuuEFl
+OS11_03: Delete failed for key: AP2T2KB5d6WmxFZXoCughRIL1cBuuEFl, error: Key not found
+OS11_03: Iteration 6, attempting to delete key: IswIawhjVIAlEO7zZSoXLuFF2WicRXyh
+OS11_03: Delete failed for key: IswIawhjVIAlEO7zZSoXLuFF2WicRXyh, error: Key not found
+OS11_03: Iteration 7, attempting to delete key: 7Wf0UY36LGT7ZCA7JNO5my2GENak4f6u
+OS11_03: Delete failed for key: 7Wf0UY36LGT7ZCA7JNO5my2GENak4f6u, error: Key not found
+OS11_03: Iteration 8, attempting to delete key: QgHQs7rfhGsV495BhtXG7NOY8kuSGkwB
+OS11_03: Delete failed for key: QgHQs7rfhGsV495BhtXG7NOY8kuSGkwB, error: Key not found
+OS11_03: Iteration 9, attempting to delete key: GUtQNJO1IPGjwEJewXSTWhGgQ8RLMZql
+OS11_03: Delete failed for key: GUtQNJO1IPGjwEJewXSTWhGgQ8RLMZql, error: Key not found
+OS11_03: Iteration 10, attempting to delete key: 5VQYbPTaArsL4XteuOGmEv2Qj5ULd2eA
+OS11_03: Delete failed for key: 5VQYbPTaArsL4XteuOGmEv2Qj5ULd2eA, error: Key not found
+OS11_03: Iteration 11, attempting to delete key: dGCAgI1I3G4e8qBFMVyhhE32N3fKM7oy
+OS11_03: Delete failed for key: dGCAgI1I3G4e8qBFMVyhhE32N3fKM7oy, error: Key not found
+OS11_03: Iteration 12, attempting to delete key: RC9q0JPFhxmEBxtsZIJicHYNggH0sZvv
+OS11_03: Delete failed for key: RC9q0JPFhxmEBxtsZIJicHYNggH0sZvv, error: Key not found
+OS11_03: Iteration 13, attempting to delete key: YvlRGt6MqGKNjyvujwwYE4kOVZaQVtBP
+OS11_03: Delete failed for key: YvlRGt6MqGKNjyvujwwYE4kOVZaQVtBP, error: Key not found
+OS11_03: Iteration 14, attempting to delete key: 7LI1CmSCTXr6hrF2w54FB9I3M2bTYcWe
+OS11_03: Delete failed for key: 7LI1CmSCTXr6hrF2w54FB9I3M2bTYcWe, error: Key not found
+OS11_03: Connecting to HT storage D:\проекты 5 сем\системное программирование\lab2_02\OS11_03\x64\Debug\test.ht
+OS11_03: Connected: filename=D:\проекты 5 сем\системное программирование\lab2_02\OS11_03\x64\Debug\test.ht, capacity=2000, maxkeylength=4, maxdatalength=4
+OS11_03: Key 1: ugd1aFlt4ErSTGWcsWJRYruGGhl2Arce
+OS11_03: Key 2: xAKW0FOOibBQU1qJeaDYFOu31sUPgNdT
+OS11_03: Key 3: ecreCfdQZIP3EE50ukDXMt82SYgmzkAh
+OS11_03: Key 4: iIGCTtZRWq7eE8VyhUpFCwEy9KgBKnVh
+OS11_03: Key 5: zzipA1GS9rLBTBAbkjROZLnhqAGtZWjC
+OS11_03: Key 6: I5nR1LmdPfnRjohq5QhfBAGB4Guv0ayb
+OS11_03: Key 7: YumMnFgsSetLNYdBH7LdH33Ny67GpjoJ
+OS11_03: Key 8: TU3vOPCUXGh4cTLQxggBSQ4h6QLxeNKI
+OS11_03: Key 9: 8l0mtxgIPLXyjpns9bveLOPOFKW61ayn
+OS11_03: Key 10: 8HaGrIDI2xr1SovCiMCrop1Tk6Zog8nG
+OS11_03: Key 11: ZghldmJwjsuhBSg9VeZ8hethV1DwRvPY
+OS11_03: Key 12: xerfhbCzAmb890OMIHRGSAxZYyTxIN6J
+OS11_03: Key 13: MayMBtr1YuwV73lRyaQZ5jFmKDyxa5XM
+OS11_03: Key 14: rwlkxKsNkWb1AvI6X5OvMtRVFzla09MG
+OS11_03: Key 15: qFnQpyqAbgji4TjsMJv7NfI1l4fwXTtM
+OS11_03: Key 16: nk4h3HjlfkMBwXz9WiskQqqKEK5fJl39
+OS11_03: Key 17: 99C5cwvP0WmmQ3AE9m43duJXBz00tb7b
+OS11_03: Key 18: Ia5dx5BvziBvZbscgUzjx2uhYr0tLJkt
+OS11_03: Key 19: nMQbfvHEPsUsctoPTgZ6ti4BIDTlbrUs
+OS11_03: Key 20: xj6vo80ijp09NeGLlHIU48vAshjPfVHf
+OS11_03: Key 21: QUTb3picLvr31mF75RTjoAPDBWd8oqBj
+OS11_03: Key 22: 9J5ferVqaX7a2UjFkNCipOet95UvyO4P
+OS11_03: Key 23: vdSiVqQObrIXv76uWTbtA6ovUwwFzCcg
+OS11_03: Key 24: 9efQwJxVEYNrvNFV3ZjoiU70QZvriv5j
+OS11_03: Key 25: 326ZUoCE9Zd86Wa4vhZFojjW54D4YiXZ
+OS11_03: Key 26: RjznT3KzZMa8haljeR5na1U2zPvolo6y
+OS11_03: Key 27: W4F3fvb452aVvL1M0efaoqYPj75a6VoZ
+OS11_03: Key 28: lJdcJGJO9nB7a78negsFM0568e7glAhD
+OS11_03: Key 29: n9pr0ajJ4L7NDM8h1c42WpsovQcwdKhv
+OS11_03: Key 30: s0bXI9TsTBd5drCqGedsypQx6wfNbrZq
+OS11_03: Key 31: irVUs12YXBKyGqcZLnTA9YDAkewYNiAX
+OS11_03: Key 32: hoHuLfUuctSSKH7WY7n9gDdTfP5XY7mZ
+OS11_03: Key 33: rjvqDsFtmd5H6mFxgeOmQzBzI4RD7i78
+OS11_03: Key 34: 6rbW0YaEjhGalbIfgZcWlcnuEx4q5rMJ
+OS11_03: Key 35: KVNfNaf490Ru4ydnjsNE8XdNjhMhaLRW
+OS11_03: Key 36: xln8RCltc6yRNtIpWaJg2ulp4cna8AUH
+OS11_03: Key 37: pEDm1w2UrE4twFjDpZr1Pz4t3742cpz9
+OS11_03: Key 38: pGIIwIobBG3zbobE8eJgh6js5cqU1S5L
+OS11_03: Key 39: oD3wyG6o5zspFDDKixFM3Dw29zNKHgfJ
+OS11_03: Key 40: jFW3P3qOZB5eOtu2K0IokRhctEpBlXt1
+OS11_03: Key 41: ogVFWzI6FWwPqEDnwz7XECGbYlMXs3bo
+OS11_03: Key 42: 1QZJuDn688KXK2Dmp4YkClssNofV0drk
+OS11_03: Key 43: RFQBuNrs5GvtZExUlgHmddSkeryxWMm6
+OS11_03: Key 44: bXA8ogW3ZmpENDu81fxYUqkikx9mDeDK
+OS11_03: Key 45: vLCLaO35WVTnMjJvMyy45qKbk6pxpc36
+OS11_03: Key 46: 41cocruriwcuv56beBax8bE2EWv7yqVc
+OS11_03: Key 47: N8mWOK4QBDVkvzt76b5mmV7GqhrNRiem
+OS11_03: Key 48: jPxPOYdf3cujJXOwVYoW2XRfxd1EXStH
+OS11_03: Key 49: qJpyVvPn8tBlC7ank4WMTd6yueqT3kHA
+OS11_03: Key 50: GlxBomvd0aSNwxaVJWtQzOHeyICGIY7E
+OS11_03: Press any key to stop deleting...
+OS11_03: [1] Deleting key: 326ZUoCE9Zd86Wa4vhZFojjW54D4YiXZ
+OS11_03: DELETE FAILED: 326ZUoCE9Zd86Wa4vhZFojjW54D4YiXZ, error: Invalid parameters
+OS11_03: [2] Deleting key: GlxBomvd0aSNwxaVJWtQzOHeyICGIY7E
+OS11_03: DELETE FAILED: GlxBomvd0aSNwxaVJWtQzOHeyICGIY7E, error: Invalid parameters
+OS11_03: [3] Deleting key: TU3vOPCUXGh4cTLQxggBSQ4h6QLxeNKI
+OS11_03: DELETE FAILED: TU3vOPCUXGh4cTLQxggBSQ4h6QLxeNKI, error: Invalid parameters
+OS11_03: [4] Deleting key: s0bXI9TsTBd5drCqGedsypQx6wfNbrZq
+OS11_03: DELETE FAILED: s0bXI9TsTBd5drCqGedsypQx6wfNbrZq, error: Invalid parameters
+OS11_03: [5] Deleting key: nMQbfvHEPsUsctoPTgZ6ti4BIDTlbrUs
+OS11_03: DELETE FAILED: nMQbfvHEPsUsctoPTgZ6ti4BIDTlbrUs, error: Invalid parameters
+OS11_03: [6] Deleting key: xerfhbCzAmb890OMIHRGSAxZYyTxIN6J
+OS11_03: DELETE FAILED: xerfhbCzAmb890OMIHRGSAxZYyTxIN6J, error: Invalid parameters
+OS11_03: [7] Deleting key: bXA8ogW3ZmpENDu81fxYUqkikx9mDeDK
+OS11_03: DELETE FAILED: bXA8ogW3ZmpENDu81fxYUqkikx9mDeDK, error: Invalid parameters
+OS11_03: Connecting to HT storage D:\проекты 5 сем\системное программирование\lab2_02\OS11_03\x64\Debug\test.ht
+OS11_03: Connected to HT storage: filename=D:\проекты 5 сем\системное программирование\lab2_02\OS11_03\x64\Debug\test.ht, snapshotinterval=3, capacity=2000, maxkeylength=33, maxdatalength=4
+OS11_03: Generated key 1: ugd1aFlt4ErSTGWcsWJRYruGGhl2Arce
+OS11_03: Generated key 2: xAKW0FOOibBQU1qJeaDYFOu31sUPgNdT
+OS11_03: Generated key 3: ecreCfdQZIP3EE50ukDXMt82SYgmzkAh
+OS11_03: Generated key 4: iIGCTtZRWq7eE8VyhUpFCwEy9KgBKnVh
+OS11_03: Generated key 5: zzipA1GS9rLBTBAbkjROZLnhqAGtZWjC
+OS11_03: Generated key 6: I5nR1LmdPfnRjohq5QhfBAGB4Guv0ayb
+OS11_03: Generated key 7: YumMnFgsSetLNYdBH7LdH33Ny67GpjoJ
+OS11_03: Generated key 8: TU3vOPCUXGh4cTLQxggBSQ4h6QLxeNKI
+OS11_03: Generated key 9: 8l0mtxgIPLXyjpns9bveLOPOFKW61ayn
+OS11_03: Generated key 10: 8HaGrIDI2xr1SovCiMCrop1Tk6Zog8nG
+OS11_03: Generated key 11: ZghldmJwjsuhBSg9VeZ8hethV1DwRvPY
+OS11_03: Generated key 12: xerfhbCzAmb890OMIHRGSAxZYyTxIN6J
+OS11_03: Generated key 13: MayMBtr1YuwV73lRyaQZ5jFmKDyxa5XM
+OS11_03: Generated key 14: rwlkxKsNkWb1AvI6X5OvMtRVFzla09MG
+OS11_03: Generated key 15: qFnQpyqAbgji4TjsMJv7NfI1l4fwXTtM
+OS11_03: Generated key 16: nk4h3HjlfkMBwXz9WiskQqqKEK5fJl39
+OS11_03: Generated key 17: 99C5cwvP0WmmQ3AE9m43duJXBz00tb7b
+OS11_03: Generated key 18: Ia5dx5BvziBvZbscgUzjx2uhYr0tLJkt
+OS11_03: Generated key 19: nMQbfvHEPsUsctoPTgZ6ti4BIDTlbrUs
+OS11_03: Generated key 20: xj6vo80ijp09NeGLlHIU48vAshjPfVHf
+OS11_03: Generated key 21: QUTb3picLvr31mF75RTjoAPDBWd8oqBj
+OS11_03: Generated key 22: 9J5ferVqaX7a2UjFkNCipOet95UvyO4P
+OS11_03: Generated key 23: vdSiVqQObrIXv76uWTbtA6ovUwwFzCcg
+OS11_03: Generated key 24: 9efQwJxVEYNrvNFV3ZjoiU70QZvriv5j
+OS11_03: Generated key 25: 326ZUoCE9Zd86Wa4vhZFojjW54D4YiXZ
+OS11_03: Generated key 26: RjznT3KzZMa8haljeR5na1U2zPvolo6y
+OS11_03: Generated key 27: W4F3fvb452aVvL1M0efaoqYPj75a6VoZ
+OS11_03: Generated key 28: lJdcJGJO9nB7a78negsFM0568e7glAhD
+OS11_03: Generated key 29: n9pr0ajJ4L7NDM8h1c42WpsovQcwdKhv
+OS11_03: Generated key 30: s0bXI9TsTBd5drCqGedsypQx6wfNbrZq
+OS11_03: Generated key 31: irVUs12YXBKyGqcZLnTA9YDAkewYNiAX
+OS11_03: Generated key 32: hoHuLfUuctSSKH7WY7n9gDdTfP5XY7mZ
+OS11_03: Generated key 33: rjvqDsFtmd5H6mFxgeOmQzBzI4RD7i78
+OS11_03: Generated key 34: 6rbW0YaEjhGalbIfgZcWlcnuEx4q5rMJ
+OS11_03: Generated key 35: KVNfNaf490Ru4ydnjsNE8XdNjhMhaLRW
+OS11_03: Generated key 36: xln8RCltc6yRNtIpWaJg2ulp4cna8AUH
+OS11_03: Generated key 37: pEDm1w2UrE4twFjDpZr1Pz4t3742cpz9
+OS11_03: Generated key 38: pGIIwIobBG3zbobE8eJgh6js5cqU1S5L
+OS11_03: Generated key 39: oD3wyG6o5zspFDDKixFM3Dw29zNKHgfJ
+OS11_03: Generated key 40: jFW3P3qOZB5eOtu2K0IokRhctEpBlXt1
+OS11_03: Generated key 41: ogVFWzI6FWwPqEDnwz7XECGbYlMXs3bo
+OS11_03: Generated key 42: 1QZJuDn688KXK2Dmp4YkClssNofV0drk
+OS11_03: Generated key 43: RFQBuNrs5GvtZExUlgHmddSkeryxWMm6
+OS11_03: Generated key 44: bXA8ogW3ZmpENDu81fxYUqkikx9mDeDK
+OS11_03: Generated key 45: vLCLaO35WVTnMjJvMyy45qKbk6pxpc36
+OS11_03: Generated key 46: 41cocruriwcuv56beBax8bE2EWv7yqVc
+OS11_03: Generated key 47: N8mWOK4QBDVkvzt76b5mmV7GqhrNRiem
+OS11_03: Generated key 48: jPxPOYdf3cujJXOwVYoW2XRfxd1EXStH
+OS11_03: Generated key 49: qJpyVvPn8tBlC7ank4WMTd6yueqT3kHA
+OS11_03: Generated key 50: GlxBomvd0aSNwxaVJWtQzOHeyICGIY7E
+OS11_03: Press any key to stop deleting and exit...
+OS11_03: Iteration 1, attempting to delete key: 326ZUoCE9Zd86Wa4vhZFojjW54D4YiXZ
+OS11_03: Delete failed for key: 326ZUoCE9Zd86Wa4vhZFojjW54D4YiXZ, error: Key not found
+OS11_03: Iteration 2, attempting to delete key: GlxBomvd0aSNwxaVJWtQzOHeyICGIY7E
+OS11_03: Delete failed for key: GlxBomvd0aSNwxaVJWtQzOHeyICGIY7E, error: Key not found
+OS11_03: Iteration 3, attempting to delete key: TU3vOPCUXGh4cTLQxggBSQ4h6QLxeNKI
+OS11_03: Delete failed for key: TU3vOPCUXGh4cTLQxggBSQ4h6QLxeNKI, error: Key not found
+OS11_03: Iteration 4, attempting to delete key: s0bXI9TsTBd5drCqGedsypQx6wfNbrZq
+OS11_03: Delete failed for key: s0bXI9TsTBd5drCqGedsypQx6wfNbrZq, error: Key not found
+OS11_03: Iteration 5, attempting to delete key: nMQbfvHEPsUsctoPTgZ6ti4BIDTlbrUs
+OS11_03: Delete failed for key: nMQbfvHEPsUsctoPTgZ6ti4BIDTlbrUs, error: Key not found
+OS11_03: Iteration 6, attempting to delete key: xerfhbCzAmb890OMIHRGSAxZYyTxIN6J
+OS11_03: Delete failed for key: xerfhbCzAmb890OMIHRGSAxZYyTxIN6J, error: Key not found
+OS11_03: Iteration 7, attempting to delete key: bXA8ogW3ZmpENDu81fxYUqkikx9mDeDK
+OS11_03: Delete failed for key: bXA8ogW3ZmpENDu81fxYUqkikx9mDeDK, error: Key not found
+OS11_03: Connecting to D:\проекты 5 сем\системное программирование\lab2_02\OS11_03\x64\Debug\test.ht
+OS11_03: Key 1: ugd1aFlt4ErSTGWcsWJRYruGGhl2Arce
+OS11_03: Key 2: xAKW0FOOibBQU1qJeaDYFOu31sUPgNdT
+OS11_03: Key 3: ecreCfdQZIP3EE50ukDXMt82SYgmzkAh
+OS11_03: Key 4: iIGCTtZRWq7eE8VyhUpFCwEy9KgBKnVh
+OS11_03: Key 5: zzipA1GS9rLBTBAbkjROZLnhqAGtZWjC
+OS11_03: Key 6: I5nR1LmdPfnRjohq5QhfBAGB4Guv0ayb
+OS11_03: Key 7: YumMnFgsSetLNYdBH7LdH33Ny67GpjoJ
+OS11_03: Key 8: TU3vOPCUXGh4cTLQxggBSQ4h6QLxeNKI
+OS11_03: Key 9: 8l0mtxgIPLXyjpns9bveLOPOFKW61ayn
+OS11_03: Key 10: 8HaGrIDI2xr1SovCiMCrop1Tk6Zog8nG
+OS11_03: Key 11: ZghldmJwjsuhBSg9VeZ8hethV1DwRvPY
+OS11_03: Key 12: xerfhbCzAmb890OMIHRGSAxZYyTxIN6J
+OS11_03: Key 13: MayMBtr1YuwV73lRyaQZ5jFmKDyxa5XM
+OS11_03: Key 14: rwlkxKsNkWb1AvI6X5OvMtRVFzla09MG
+OS11_03: Key 15: qFnQpyqAbgji4TjsMJv7NfI1l4fwXTtM
+OS11_03: Key 16: nk4h3HjlfkMBwXz9WiskQqqKEK5fJl39
+OS11_03: Key 17: 99C5cwvP0WmmQ3AE9m43duJXBz00tb7b
+OS11_03: Key 18: Ia5dx5BvziBvZbscgUzjx2uhYr0tLJkt
+OS11_03: Key 19: nMQbfvHEPsUsctoPTgZ6ti4BIDTlbrUs
+OS11_03: Key 20: xj6vo80ijp09NeGLlHIU48vAshjPfVHf
+OS11_03: Key 21: QUTb3picLvr31mF75RTjoAPDBWd8oqBj
+OS11_03: Key 22: 9J5ferVqaX7a2UjFkNCipOet95UvyO4P
+OS11_03: Key 23: vdSiVqQObrIXv76uWTbtA6ovUwwFzCcg
+OS11_03: Key 24: 9efQwJxVEYNrvNFV3ZjoiU70QZvriv5j
+OS11_03: Key 25: 326ZUoCE9Zd86Wa4vhZFojjW54D4YiXZ
+OS11_03: Key 26: RjznT3KzZMa8haljeR5na1U2zPvolo6y
+OS11_03: Key 27: W4F3fvb452aVvL1M0efaoqYPj75a6VoZ
+OS11_03: Key 28: lJdcJGJO9nB7a78negsFM0568e7glAhD
+OS11_03: Key 29: n9pr0ajJ4L7NDM8h1c42WpsovQcwdKhv
+OS11_03: Key 30: s0bXI9TsTBd5drCqGedsypQx6wfNbrZq
+OS11_03: Key 31: irVUs12YXBKyGqcZLnTA9YDAkewYNiAX
+OS11_03: Key 32: hoHuLfUuctSSKH7WY7n9gDdTfP5XY7mZ
+OS11_03: Key 33: rjvqDsFtmd5H6mFxgeOmQzBzI4RD7i78
+OS11_03: Key 34: 6rbW0YaEjhGalbIfgZcWlcnuEx4q5rMJ
+OS11_03: Key 35: KVNfNaf490Ru4ydnjsNE8XdNjhMhaLRW
+OS11_03: Key 36: xln8RCltc6yRNtIpWaJg2ulp4cna8AUH
+OS11_03: Key 37: pEDm1w2UrE4twFjDpZr1Pz4t3742cpz9
+OS11_03: Key 38: pGIIwIobBG3zbobE8eJgh6js5cqU1S5L
+OS11_03: Key 39: oD3wyG6o5zspFDDKixFM3Dw29zNKHgfJ
+OS11_03: Key 40: jFW3P3qOZB5eOtu2K0IokRhctEpBlXt1
+OS11_03: Key 41: ogVFWzI6FWwPqEDnwz7XECGbYlMXs3bo
+OS11_03: Key 42: 1QZJuDn688KXK2Dmp4YkClssNofV0drk
+OS11_03: Key 43: RFQBuNrs5GvtZExUlgHmddSkeryxWMm6
+OS11_03: Key 44: bXA8ogW3ZmpENDu81fxYUqkikx9mDeDK
+OS11_03: Key 45: vLCLaO35WVTnMjJvMyy45qKbk6pxpc36
+OS11_03: Key 46: 41cocruriwcuv56beBax8bE2EWv7yqVc
+OS11_03: Key 47: N8mWOK4QBDVkvzt76b5mmV7GqhrNRiem
+OS11_03: Key 48: jPxPOYdf3cujJXOwVYoW2XRfxd1EXStH
+OS11_03: Key 49: qJpyVvPn8tBlC7ank4WMTd6yueqT3kHA
+OS11_03: Key 50: GlxBomvd0aSNwxaVJWtQzOHeyICGIY7E
+OS11_03: Press any key to stop deleting...
+OS11_03: [1] Deleting: 326ZUoCE9Zd86Wa4vhZFojjW54D4YiXZ
+OS11_03: NOT FOUND: 326ZUoCE9Zd86Wa4vhZFojjW54D4YiXZ
+OS11_03: [2] Deleting: GlxBomvd0aSNwxaVJWtQzOHeyICGIY7E
+OS11_03: NOT FOUND: GlxBomvd0aSNwxaVJWtQzOHeyICGIY7E
+OS11_03: [3] Deleting: TU3vOPCUXGh4cTLQxggBSQ4h6QLxeNKI
+OS11_03: NOT FOUND: TU3vOPCUXGh4cTLQxggBSQ4h6QLxeNKI
+OS11_03: [4] Deleting: s0bXI9TsTBd5drCqGedsypQx6wfNbrZq
+OS11_03: NOT FOUND: s0bXI9TsTBd5drCqGedsypQx6wfNbrZq
+OS11_03: [5] Deleting: nMQbfvHEPsUsctoPTgZ6ti4BIDTlbrUs
+OS11_03: NOT FOUND: nMQbfvHEPsUsctoPTgZ6ti4BIDTlbrUs
+OS11_03: [6] Deleting: xerfhbCzAmb890OMIHRGSAxZYyTxIN6J
+OS11_03: NOT FOUND: xerfhbCzAmb890OMIHRGSAxZYyTxIN6J
+OS11_03: [7] Deleting: bXA8ogW3ZmpENDu81fxYUqkikx9mDeDK
+OS11_03: NOT FOUND: bXA8ogW3ZmpENDu81fxYUqkikx9mDeDK
+OS11_03: [8] Deleting: QUTb3picLvr31mF75RTjoAPDBWd8oqBj
+OS11_03: NOT FOUND: QUTb3picLvr31mF75RTjoAPDBWd8oqBj
+OS11_03: [9] Deleting: Ia5dx5BvziBvZbscgUzjx2uhYr0tLJkt
+OS11_03: NOT FOUND: Ia5dx5BvziBvZbscgUzjx2uhYr0tLJkt
