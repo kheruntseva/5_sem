@@ -1,0 +1,65 @@
+
+if [ $# -eq 0 ]; then
+    echo "Usage: $0 <directory_path>"
+    echo "Example: $0 /home/user/documents"
+    read -p "Press Enter to continue..."
+    exit 1
+fi
+
+# Проверка, существует ли каталог
+if [ ! -d "$1" ]; then
+    echo "Error: Directory '$1' does not exist"
+    read -p "Press Enter to continue..."
+    exit 1
+fi
+dir_path=$(realpath "$1")
+
+echo "Listing contents of: $dir_path"
+echo "--------------------------------"
+convert_size() {
+    local size_bytes=$1
+    local size
+    local unit
+    if [ $size_bytes -lt 1024 ]; then
+        size=$size_bytes
+        unit="B"
+    elif [ $size_bytes -lt $((1024 * 1024)) ]; then
+        size=$(echo "scale=2; $size_bytes / 1024" | bc)
+        unit="KB"
+    elif [ $size_bytes -lt $((1024 * 1024 * 1024)) ]; then
+        size=$(echo "scale=2; $size_bytes / (1024 * 1024)" | bc)
+        unit="MB"
+    # Конвертация в ГБ
+    else
+        size=$(echo "scale=2; $size_bytes / (1024 * 1024 * 1024)" | bc)
+        unit="GB"
+    fi
+
+    # Убираем .00, если число целое
+    size=$(echo "$size" | sed 's/\.00$//')
+    echo "$size $unit"
+}
+while IFS= read -r item; do
+    # Пропускаем сам каталог (корневой путь)
+    if [ "$item" = "$dir_path" ]; then
+        continue
+    fi
+
+    rel_path=${item#"$dir_path/"}
+
+    if [ -d "$item" ]; then
+        file_count=$(find "$item" -type f | wc -l)
+        echo "Directory: $rel_path ($file_count files)"
+    elif [ -f "$item" ]; then
+        # Получаем размер файла в байтах
+        size_bytes=$(stat -c %s "$item" 2>/dev/null)
+        if [ $? -eq 0 ]; then
+            # Конвертируем размер
+            size_formatted=$(convert_size $size_bytes)
+            echo "File: $rel_path ($size_formatted)"
+        else
+            echo "File: $rel_path (size unavailable)"
+        fi
+    fi
+done < <(find "$dir_path" -print)
+read -p "Press Enter to continue..."  
