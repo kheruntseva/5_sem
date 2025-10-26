@@ -1,0 +1,1 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(500,5): error MSB8041: для этого проекта требуются библиотеки MFC. Установите их с помощью установщика Visual Studio (вкладка "Отдельные компоненты") для всех используемых архитектур и наборов инструментов.
