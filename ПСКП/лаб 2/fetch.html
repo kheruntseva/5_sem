@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fetch API Example</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        #studentInfo {
+            background-color: #f5f5f5;
+            padding: 20px;
+            border-radius: 5px;
+        }
+        .loading {
+            color: #666;
+        }
+        .error {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1>Данные студента</h1>
+    <div id="studentInfo" class="loading">Загрузка...</div>
+
+    <script>
+        fetch('http://localhost:5000/api/name')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Ошибка загрузки данных');
+                }
+                return response.text();
+            })
+            .then(data => {
+                const studentInfo = document.getElementById('studentInfo');
+                studentInfo.textContent = data;
+                studentInfo.classList.remove('loading');
+            })
+            .catch(error => {
+                const studentInfo = document.getElementById('studentInfo');
+                studentInfo.textContent = 'Ошибка: ' + error.message;
+                studentInfo.classList.remove('loading');
+                studentInfo.classList.add('error');
+            });
+    </script>
+</body>
+</html>

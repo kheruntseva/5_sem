@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XMLHttpRequest Example</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        #studentInfo {
+            background-color: #f5f5f5;
+            padding: 20px;
+            border-radius: 5px;
+        }
+        .loading {
+            color: #666;
+        }
+        .error {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1>Данные студента</h1>
+    <div id="studentInfo" class="loading">Загрузка...</div>
+
+    <script>
+        const xhr = new XMLHttpRequest();
+        xhr.open('GET', 'http://localhost:5000/api/name', true);
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState === 4) {
+                const studentInfo = document.getElementById('studentInfo');
+                if (xhr.status === 200) {
+                    studentInfo.textContent = xhr.responseText;
+                    studentInfo.classList.remove('loading');
+                } else {
+                    studentInfo.textContent = 'Ошибка загрузки данных';
+                    studentInfo.classList.remove('loading');
+                    studentInfo.classList.add('error');
+                }
+            }
+        };
+        xhr.send();
+    </script>
+</body>
+</html>
