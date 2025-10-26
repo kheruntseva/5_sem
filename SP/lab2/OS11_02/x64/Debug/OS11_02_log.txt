@@ -1,0 +1,62 @@
+OS11_02: Connecting to HT storage test.ht
+OS11_02: Connected to HT storage: filename=test.ht, snapshotinterval=3, capacity=2000, maxkeylength=4, maxdatalength=4
+OS11_02: Generated key 1: tdU8BPRPm0YL2LIdlXi5wWD3gzR376lX
+OS11_02: Generated key 2: Dov0sC5KX37Qkemok5cDZsXDiBFdWAsp
+OS11_02: Generated key 3: 2R5xQDMcwq6uOYM4HXgEFsA7Ko5TaDdG
+OS11_02: Generated key 4: Xv1hqXqS7CD7lHErsbHFCRrmHTrjeYUo
+OS11_02: Generated key 5: DdScFNTkNuDeZgty6nPMbeOyItDfn5jZ
+OS11_02: Generated key 6: lLgvj7rm8syWCeGiEBE9tTVHSvi7BFuf
+OS11_02: Generated key 7: Rt1mjBeFfP3pPl5PFjM2Rnn8kL6kBzZh
+OS11_02: Generated key 8: u334rAMfgntRu7RbcvZhYR73a1qtWRbw
+OS11_02: Generated key 9: wF01e9xWiRcFMe8eOzcfdhzU1ZjCnPSL
+OS11_02: Generated key 10: ktz7s2QT0WQHBxm76RVthgYyzNPZtsey
+OS11_02: Generated key 11: e2CVagRC1ezr88WoGHRZ4BuDY5QQ2riP
+OS11_02: Generated key 12: 6V9xbYJTyShXjj6R9kmrNmb6pVJxD9ym
+OS11_02: Generated key 13: iBNDB3rTjnWoo32b9vRzrdtPBN3ZCHoH
+OS11_02: Generated key 14: fwoWJ3S4tJIrj3gmmnuEHFGofd2HCRYf
+OS11_02: Generated key 15: PAQldMhdLVmqOdIHT4Z36h4gA6xfZDtM
+OS11_02: Generated key 16: YEdfqJm0qNiHU7foZaKgTsHLSPwPmKpO
+OS11_02: Generated key 17: E1eCw5alfMAIT63liIkNBGCuRdD8azGL
+OS11_02: Generated key 18: KWd2ofCxX7q0MadVyFlgwfbplyC2yJ7k
+OS11_02: Generated key 19: j7GbJhAcRCEbTZhIut8QJzbgBAVnZ2S4
+OS11_02: Generated key 20: MKMJYwhggseVhZ6HmxGPwiPGr0yEFuzl
+OS11_02: Generated key 21: GVfxOWjuZPkZOjuGTGx1uO77JXfVxlEn
+OS11_02: Generated key 22: 1I1teMIvmmFc4K5foIXTx93NLyjjltZc
+OS11_02: Generated key 23: l98tZTSeK69wqOXR8oioezujqNIw7wQD
+OS11_02: Generated key 24: beO75rAnu6lVuLzMqVAEY2BB4ezQ4jnq
+OS11_02: Generated key 25: 7PSuLJwyZOUYHvf8BVuNreAT6P9EhnB1
+OS11_02: Generated key 26: ISLk4ffH8cGlHbIOuzh42vqKqWOS2Xsj
+OS11_02: Generated key 27: 5G9ljgguk87gV7D5tmphVr15XZ82Rtgr
+OS11_02: Generated key 28: P4hsz9n2wsPx3PY4nQtQzNba8gMdD4dr
+OS11_02: Generated key 29: 5fx294ldEsy3569CBu9Hc46ZU1x8W4V7
+OS11_02: Generated key 30: YVXDaQPL9THLdRYw4cPphqmYKwTv73SC
+OS11_02: Generated key 31: HfJPYukI2sgJre7lFmZ6ziVPDUrciLWW
+OS11_02: Generated key 32: oNFhIgfXgOr5wAFYlOhYzHDAykTBTDpT
+OS11_02: Generated key 33: gFJJg7qFSx0vZX3C3P0N4tND3RFIxPW7
+OS11_02: Generated key 34: wRxvOE2rRIrMEEbReDyXC5ZFDxfAFbz3
+OS11_02: Generated key 35: ROO1ffb4glOM0yMzTUuTufMHRkjSXify
+OS11_02: Generated key 36: yWWcOqPj8oRTVTuYwPxAMS5AgdFOnpPG
+OS11_02: Generated key 37: O7X9VYmD4NsGZuPz6t1Fm3IwX3KG8uvr
+OS11_02: Generated key 38: Wcv0ik0T8p7cyWJgcmWihAp1vICoIIV5
+OS11_02: Generated key 39: eoUrs9rMVyZFGZuJPxoJsudoxvwRSW4J
+OS11_02: Generated key 40: rt6iDMHi40mLkEOvypbhuY7kEFPEDgjj
+OS11_02: Generated key 41: pBFSmjcLG0FnC4OpWqcSOsxk1pvoKtu5
+OS11_02: Generated key 42: YpQGqujkqJZRXDqFAVsuAycIMneeivgE
+OS11_02: Generated key 43: X1YJmOG1Xjwf0qzf6dbGeBi6AHgZB5bW
+OS11_02: Generated key 44: fp5AvWtCWnE3fJu0B4cCY6lwaW3ucAJa
+OS11_02: Generated key 45: I7kYUeCMBUQqo3PAIcttfONKFDaErCer
+OS11_02: Generated key 46: e4Z8sN3tDWg5T5av6M6BjEusmJMYXssG
+OS11_02: Generated key 47: ebuTKUwYKV9kuHU4qXPQEe8yXEh486v5
+OS11_02: Generated key 48: 8gpGaxdtIKXxewmVli492qlmbjCA5hqe
+OS11_02: Generated key 49: RGXvlTbmKgd8QQMy6NmAXL80kvXfJQBv
+OS11_02: Generated key 50: TEYUHRlsFO9aUGLKmYPIgYnqF22pfYlC
+OS11_02: Iteration 1, inserting key: pBFSmjcLG0FnC4OpWqcSOsxk1pvoKtu5, payload: 0
+OS11_02: Insert failed for key: pBFSmjcLG0FnC4OpWqcSOsxk1pvoKtu5, error: Invalid parameters
+OS11_02: Iteration 2, inserting key: j7GbJhAcRCEbTZhIut8QJzbgBAVnZ2S4, payload: 0
+OS11_02: Insert failed for key: j7GbJhAcRCEbTZhIut8QJzbgBAVnZ2S4, error: Invalid parameters
+OS11_02: Iteration 3, inserting key: YVXDaQPL9THLdRYw4cPphqmYKwTv73SC, payload: 0
+OS11_02: Insert failed for key: YVXDaQPL9THLdRYw4cPphqmYKwTv73SC, error: Invalid parameters
+OS11_02: Exiting main loop, closing resources
+OS11_02: Calling HT::Close
+OS11_02: HT storage closed successfully
+OS11_02: Closing log file
